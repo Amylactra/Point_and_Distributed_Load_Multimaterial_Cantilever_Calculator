@@ -1,4 +1,4 @@
-Solver for cantilever beam made of multiple materials with either point or distributed loads. Outputs figures of deflection in degrees for any arbitrary beam type, as well as a csv file for deflection along the length.
+Solver for cantilever beam made of multiple materials with either point or distributed loads. Outputs figures of deflection in degrees for any arbitrary beam geometry and material, as well as a csv file for deflection along the length.
 
 Requires Numpy and Matplotlib, I ran it in PyCharm but you could probably run it in Visual Studios or maybe in default Python IDLE. 
 
